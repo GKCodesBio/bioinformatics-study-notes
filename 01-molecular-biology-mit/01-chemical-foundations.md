@@ -18,9 +18,8 @@ When sequencing long reads (like Oxford Nanopore technology), separating DNA str
 - [ ] Commit notes to GitHub
 
 
-
 ```mermaid
 graph TD
-    A[Primary Amino Acid Sequence] -->|Hydrophobic Collapse| B(Secondary Structures)
-    B -->|Hydrogen Bonding| C[Alpha Helices & Beta Sheets]
+    A[Primary Amino Acid Sequence] -->|Hydrophobic Collapse| B[Secondary Structures]
+    B -->|Hydrogen Bonding| C[Alpha Helices and Beta Sheets]
     C -->|Tertiary Folding| D[3D Functional Enzyme]
