@@ -1,7 +1,7 @@
 # Bioinformatics & Computational Biology Study Portfolio
 
 **Author:** Georgia Keats  
-**Goal:** Academic preparation for MRes entry at the University of Edinburgh (Genomics & ME/CFS Focus).  
+**Goal:** Academic preparation for a Research Master's in Bioinformatics (Genomics & ME/CFS Focus).  
 **Background:** Mathematics BSc  
 
 ## 📌 Study Roadmap Overview
