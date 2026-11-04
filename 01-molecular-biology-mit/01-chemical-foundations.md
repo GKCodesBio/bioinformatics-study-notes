@@ -13,6 +13,6 @@
 When sequencing long reads (like Oxford Nanopore technology), separating DNA strands relies on thermal or enzymatic breaking of hydrogen bonds. Understanding $G-C$ vs $A-T$ bonding stability helps explain sequencing dynamics.
 
 ## 3. Study Checklist
-- [ ] Review water polarity and hydrogen bonding
+- [x] Review water polarity and hydrogen bonding
 - [ ] Understand the 4 major classes of biological macromolecules
 - [ ] Commit notes to GitHub
