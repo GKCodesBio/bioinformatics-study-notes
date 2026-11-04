@@ -1,12 +1,20 @@
-# bioinformatics-study-notes
-Self-taught bioinformatics preparation for Research Master's
-bioinformatics-study-notes/
-│
-├── README.md                          <-- Main Landing Page (Overview & Table of Contents)
-│
-└── 01-molecular-biology-mit/           <-- Month 1 Root Folder
-    ├── README.md                      <-- Month 1 Overview & Syllabus Tracker
-    ├── 01-chemical-foundations.md     <-- Week 1 Notes
-    ├── 02-protein-structure.md        <-- Week 2 Notes
-    ├── 03-enzymes-and-metabolism.md   <-- Week 3 Notes
-    └── 04-dna-and-central-dogma.md    <-- Week 4 Notes
+# Bioinformatics & Computational Biology Study Portfolio
+
+**Author:** Georgia Keats  
+**Goal:** Academic preparation for MRes entry at the University of Edinburgh (Genomics & ME/CFS Focus).  
+**Background:** Mathematics BSc  
+
+## 📌 Study Roadmap Overview
+
+- [ ] **Month 1:** Biochemistry & Molecular Foundations (MIT 7.01SC)
+- [ ] **Month 2:** Biostatistics & Matrix Applications (HarvardX PH525x)
+- [ ] **Month 3:** R & Bioconductor Fundamentals
+- [ ] **Months 4–6:** Python Data Stack & Genomic Formats (VCF/BAM)
+
+---
+
+## 📁 Repository Directory
+
+| Module | Topic | Core Source | Status |
+| :--- | :--- | :--- | :--- |
+| **01-molecular-biology-mit** | Chemical bonds, proteins, enzymes, DNA geometry | MIT 7.01SC | 🟡 In Progress |
